@@ -86,15 +86,23 @@ p {
     display: grid;
     justify-content: center;
     background-color: cornflowerblue;
+    padding: 30px;
 }
 
 h2{
     display:flex;
     font-size:32px;
 }
+
 .sur-for{
     display:flex;
     width: 30vw;
     padding: 20px 0px 0px;    
+}
+
+.bi
+{
+  text-align: center;
+  padding: 30px;
 }
 
